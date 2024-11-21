@@ -1,1 +1,1 @@
-# Monkeypox_Classification
+# Pox detection UI
