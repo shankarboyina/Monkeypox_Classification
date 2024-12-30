@@ -1,5 +1,8 @@
-streamlit
+python==3.9
 opencv-python-headless==4.7.0.72
+ultralytics==8.0.142
+libgl1-mesa-glx
+streamlit
 pandas
 plotly
 numpy
