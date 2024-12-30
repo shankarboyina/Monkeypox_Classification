@@ -1,7 +1,5 @@
 streamlit
-opencv-python-headless==4.7.0.72
-ultralytics==8.0.142
-libgl1-mesa-glx
+opencv-python-headless
 pandas
 plotly
 numpy
