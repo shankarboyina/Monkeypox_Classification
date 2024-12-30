@@ -67,7 +67,7 @@ def predict(model, image_name):
 # YOLOv8 Integration
 def load_yolov8_model():
     """Load the YOLOv8 model."""
-    yolov8_model = YOLO('models\last.pt')  # Update with the actual path
+    yolov8_model = YOLO('models/last.pt')  # Update with the actual path
     return yolov8_model
 
 def predict_yolov8(model, image_file):
